@@ -1,8 +1,8 @@
 # Hola, soy Andres 👋
 
 ## Sobre mí
-- 🔭 Actualmente estoy trabajando como Freelacer
-- 🌱 Estoy aprendiendo Desarrollo mobil con React Native
+
+- 📱 Estoy aprendiendo Desarrollo mobil con React Native
 
 ## Tecnologías y herramientas
 !JavaScript
